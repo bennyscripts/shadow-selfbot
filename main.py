@@ -1,8 +1,5 @@
-VERSION = "1.5" # DONT EDIT THIS!
-
 import os
 import sys
-import json
 
 from discord.ext import commands
 from utils import console

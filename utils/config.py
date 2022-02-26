@@ -5,6 +5,7 @@ from .console import clear
 
 TOKEN = json.load(open("config/config.json"))["token"]
 PREFIX = json.load(open("config/config.json"))["prefix"]
+VERSION = "1.5"
 
 TITLE = "SHADOW"
 
